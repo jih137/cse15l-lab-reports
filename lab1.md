@@ -1,6 +1,5 @@
-# Lab Report 1
 
-
+# Lab Report 1  
 
 ![Image](lab1-cd-1.png)  
 cd without argument result in the change of directory to home.
